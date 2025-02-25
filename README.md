@@ -41,8 +41,8 @@ battery-health-forecasting/
 └── README.md              # This file
 
 ## Setup
-1. Clone this repo: `git clone <repo-url>`
-2. Install dependencies: `pip install -r requirements.txt` (TBD)
+1. Clone this repo: `git clone https://github.com/TyroneZeka/battery-health-forecasting.git`
+2. Install dependencies: `pip install -r requirements.txt` 
 3. Download datasets:
    - NASA: From the Prognostics Center link above.
    - Oxford: From the Oxford Lab link above.
