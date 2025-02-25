@@ -1,0 +1,44 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+*.egg-info/
+dist/
+build/
+
+# Data files (we’ll store raw datasets locally, not in git)
+data/nasa/*
+data/oxford/*
+*.mat
+*.csv
+*.zip
+
+# Model outputs and large files
+results/*
+*.h5
+*.pkl
+*.joblib
+
+# Jupyter Notebook checkpoints
+notebooks/.ipynb_checkpoints/
+
+# Dashboard runtime files
+*.log
+*.cache
+
+# OS and editor files
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Misc
+*~
+*.bak
