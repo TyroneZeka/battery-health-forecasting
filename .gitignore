@@ -36,6 +36,7 @@ notebooks/.ipynb_checkpoints/
 .DS_Store
 *.swp
 *.swo
+*.mat
 .vscode/
 .idea/
 

@@ -5,8 +5,8 @@ import pandas as pd
 from tqdm import tqdm
 
 # Define paths
-DATASET_PATH = "../data/Oxford/"
-OUTPUT_PATH = "../data/preprocessed/"
+DATASET_PATH = "./data/Oxford/"
+OUTPUT_PATH = "./data/preprocessed/"
 os.makedirs(OUTPUT_PATH, exist_ok=True)
 
 # Oxford capacity threshold for failure (80% of initial capacity)
